@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+We are building out this site to have more content and transfer what's already been written into Git specific styling.
+
+If you have any questions please do not hesitate to reach out via conversations and we will get back soonest!
+
+Thank you and happy coding!
+
+-TechEdu4U Team
+
 <!--
 **TechEdu4U/techedu4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
